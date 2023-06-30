@@ -1,0 +1,73 @@
+.imageAfterNav{
+    background-image: url("img/header_bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+.iconshield{
+    font-size: 90px;
+}
+
+.navbar{
+    padding-left: 18vw;
+    background-color: rgb(55, 55, 55);
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.navbarul li{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.navbarul li:hover{
+    background-color: black;
+}
+
+.icon{
+    font-size: 50px;
+}
+
+.backcolor{
+    background-color: rgb(244, 243, 243);
+    margin: 0%;
+}
+
+.txtmain{
+    padding-bottom: 1%;
+    border-bottom: 2px solid grey;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.txtsct1{
+    margin: 0% 14% 0% ;
+}
+
+.imgsct2{
+    background: url("img/bg/divider1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.textfontsct2{
+    font-size: 25px;
+    margin:0% 20% 0%;
+}
+
+.borderbtsct3{
+    padding-bottom: 1%;
+    border-bottom: 2px solid grey;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.descsct3{
+    margin: 2% 23% 0%;
+}
